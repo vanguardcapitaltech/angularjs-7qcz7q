@@ -1,0 +1,9 @@
+{
+  "name": "angularjs-7qcz7q",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@uirouter/angularjs": "^1.0.29",
+    "angular": "^1.8.2"
+  }
+}
